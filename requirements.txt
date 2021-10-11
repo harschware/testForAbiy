@@ -1,0 +1,10 @@
+Django==3.1.13
+django-cors-headers==3.2.1
+django-environ==0.4.5
+django-filter==2.3.0
+django-recurrence==1.10.2
+django-request-logging==0.7.1
+django-simple-history==2.10.0
+django-taggit==1.2.0
+djangorestframework==3.11.2
+pytest-django==3.8.0
